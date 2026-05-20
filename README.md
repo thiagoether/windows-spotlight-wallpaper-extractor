@@ -70,7 +70,9 @@ LocalState\Assets
 
 2. Configure os caminhos no arquivo Python:
 
-3. Substitua "SEU_USUARIO" no caminho de origem pelo nome do seu usuário.
+3. Substitua "SEU_USUARIO" no caminho de origem pelo mesmo nome do seu usuário local.
+
+4. Substitual o caminho de destino pelo de sua preferência.
 
 ```python
 origem = r"C:\Users\SEU_USUARIO\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets"
